@@ -1,0 +1,20 @@
+# Core dependencies
+telethon>=1.24.0    # Telegram client library
+cryptg>=0.2.post4   # For faster downloads in Telethon
+PyQt5>=5.15.4       # GUI framework
+humanize>=4.0.0     # For human-readable file sizes
+
+# Async support
+asyncio>=3.4.3      # Asynchronous I/O support
+
+# Optional but recommended for better performance
+aiohttp>=3.8.1      # Async HTTP client/server
+pillow>=9.0.0       # Image processing (for handling media files)
+qasync>=0.23.0      # Qt async support
+python-dateutil>=2.8.2  # Date handling utilities
+
+# Development dependencies (optional)
+pytest>=7.0.0       # For running tests
+black>=22.0.0       # Code formatting
+flake8>=4.0.0       # Code linting
+mypy>=0.931         # Static type checking
