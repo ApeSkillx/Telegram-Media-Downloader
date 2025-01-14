@@ -46,7 +46,7 @@ pip install -r requirements.txt
 Run the application:
 
 ```bash
-python tcmc.py
+python bulk_download.py
 ```
 
 ## Configuration
