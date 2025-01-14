@@ -12,6 +12,11 @@ A powerful GUI application telegram media crawler for downloading media files fr
 - 📁 Custom download location selection
 - 🎥 Special handling for videos with duration display
 
+### Screenshots 
+![Screenshot - Telegram channel media crawler](./Screenshots/TMD.png)
+
+Note:- After entering mobile number (with country code) you'll recive code on your telegram account.
+
 ## Prerequisites
 
 - Python 3.7+
